@@ -122,7 +122,7 @@ def monthly_activity_map(selected_user, data):
 
 def activity_heatmap(selected_user, data):
     if selected_user != 'Overall':
-        data = data[data['user'] == selected_user]
+        data = data[data['users'] == selected_user]
 
     if data.empty:
         return pd.DataFrame()
