@@ -1,4 +1,4 @@
-# 📊 WhatsApp Chat Analyzer
+<h1 align="center">📊 WhatsApp Chat Analyzer</h1>
 
 A robust and interactive **WhatsApp Chat Analyzer** built using Python and Streamlit. This application enables users to extract meaningful insights from exported WhatsApp chats through advanced data analysis and visualizations.
 
