@@ -2,6 +2,8 @@
 
 A robust and interactive **WhatsApp Chat Analyzer** built using Python and Streamlit. This application enables users to extract meaningful insights from exported WhatsApp chats through advanced data analysis and visualizations.
 
+🔗 **Live Demo:** [whatsapp-chat-analyzer-m.streamlit.app](https://whatsapp-chat-analyzer-m.streamlit.app/)
+
 ---
 
 ## 🚀 Overview
